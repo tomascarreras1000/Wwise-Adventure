@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="97">
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\WwiseAdventureGame.wproj" DateLow="1623881531" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Virtual Acoustics\Factory Reflect Acoustic Textures.wwu" DateLow="1619792394" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Virtual Acoustics\Default Work Unit.wwu" DateLow="1623881531" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Triggers\Default Work Unit.wwu" DateLow="1623881531" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Switches\Default Work Unit.wwu" DateLow="1623881531" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\States\Default Work Unit.wwu" DateLow="1623881531" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1623881531" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\SoundBanks\Default Work Unit.wwu" DateLow="1623881531" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Queries\Factory Queries.wwu" DateLow="1619792375" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Queries\Default Work Unit.wwu" DateLow="1623881531" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Presets\Factory Spatial Audio.wwu" DateLow="1619792375" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Presets\Factory Reflect.wwu" DateLow="1619792394" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Presets\Default Work Unit.wwu" DateLow="1623881531" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Modulators\Default Work Unit.wwu" DateLow="1623881531" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Mixing Sessions\Default Work Unit.wwu" DateLow="1623881531" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1623881531" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1623881531" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1619792395" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Game Parameters\Factory Motion.wwu" DateLow="1619792392" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Game Parameters\Default Work Unit.wwu" DateLow="1623881531" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Events\Default Work Unit.wwu" DateLow="1623881531" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Effects\Factory Reflect.wwu" DateLow="1619792394" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Effects\Factory McDSP Effects.wwu" DateLow="1619792395" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Effects\Factory Mastering Suite.wwu" DateLow="1619792389" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1619792396" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1619792396" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="1619792396" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Effects\Factory iZotope Filters.wwu" DateLow="1619792396" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Effects\Factory iZotope Dynamics.wwu" DateLow="1619792396" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Effects\Factory iZotope Delay.wwu" DateLow="1619792396" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Effects\Factory iZotope Box Modeler.wwu" DateLow="1619792396" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Effects\Factory Effects.wwu" DateLow="1619792375" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Effects\Factory Auro Headphone.wwu" DateLow="1619792395" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Effects\Default Work Unit.wwu" DateLow="1623881531" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1623881531" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1619792375" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Conversion Settings\Default Work Unit.wwu" DateLow="1623881531" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Control Surface Sessions\Default Work Unit.wwu" DateLow="1623881531" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Audio Devices\Default Work Unit.wwu" DateLow="1623881531" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Attenuations\Default Work Unit.wwu" DateLow="1623881531" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1619792375" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1619792395" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Actor-Mixer Hierarchy\Factory Motion.wwu" DateLow="1619792392" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Documentos\GitHub\Wwise-Adventure\WwiseAdventureGame\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1623881531" DateHigh="0"/>
+</ValidationCache>
