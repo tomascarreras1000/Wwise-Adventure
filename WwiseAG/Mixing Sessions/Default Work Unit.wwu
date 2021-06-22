@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{324E4D0F-B1E7-4B20-94FA-0C37D15BCB83}" SchemaVersion="97">
+	<MixingSessions>
+		<WorkUnit Name="Default Work Unit" ID="{324E4D0F-B1E7-4B20-94FA-0C37D15BCB83}" PersistMode="Standalone">
+			<ChildrenList>
+				<MixingSession Name="Ambients" ID="{B4AA8F6A-AECF-4EC9-B5D5-CCF03296DA13}">
+					<ObjectList>
+						<ObjectRef Name="BAS_windMillBlade_001" ID="{56804E20-E1EF-4ECE-9886-92FE846A7ECC}" WorkUnitID="{9FCB5E39-E334-4EB6-8B86-C60A17AD2B00}"/>
+						<ObjectRef Name="BAS_amb_torch" ID="{C7B43492-3C25-49FC-ACC8-9F8CCB03EBF7}" WorkUnitID="{9FCB5E39-E334-4EB6-8B86-C60A17AD2B00}"/>
+						<ObjectRef Name="BAS_dungeonLava_001" ID="{D4CB0076-1BD3-4E36-84F2-0799E4F96B46}" WorkUnitID="{9FCB5E39-E334-4EB6-8B86-C60A17AD2B00}"/>
+						<ObjectRef Name="BAS_windMillBlade_003" ID="{D18B7B5F-9E93-4A3E-8CE3-47F78CB7E6C3}" WorkUnitID="{9FCB5E39-E334-4EB6-8B86-C60A17AD2B00}"/>
+						<ObjectRef Name="Water_RiverLoop" ID="{64F71E13-7C41-4F6A-90D2-7FA58DD3B32D}" WorkUnitID="{9FCB5E39-E334-4EB6-8B86-C60A17AD2B00}"/>
+					</ObjectList>
+				</MixingSession>
+			</ChildrenList>
+		</WorkUnit>
+	</MixingSessions>
+</WwiseDocument>

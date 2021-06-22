@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{7C200BC0-743B-4513-B2D9-86021C7CBD1E}" SchemaVersion="97">
+	<Switches>
+		<WorkUnit Name="Default Work Unit" ID="{7C200BC0-743B-4513-B2D9-86021C7CBD1E}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchGroup Name="Player_Weapon_Type" ID="{1D7AC5F2-DB7E-4056-B742-8402E4A59DF2}">
+					<ChildrenList>
+						<Switch Name="Sword" ID="{6F74ACB6-B287-41F5-B59A-B546AA4D6404}"/>
+						<Switch Name="Dagger" ID="{5A718BE3-AA9D-4D45-8399-6842CAAE9427}"/>
+						<Switch Name="Axe" ID="{D4AEE6BA-5442-4C0A-BDE8-2E3580988041}"/>
+						<Switch Name="Hammer" ID="{318EF4B1-28BC-442D-903C-F37F6B224A22}"/>
+						<Switch Name="PickAxe" ID="{4BB20B6B-2C4A-4CD7-A29C-E5AD01D40486}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="Surface_Type" ID="{6E9D774B-822A-4D50-B356-572AC48A3805}">
+					<ChildrenList>
+						<Switch Name="Leaves" ID="{AFD5F2A8-27DA-440D-82CE-C6237A95DFB4}"/>
+						<Switch Name="Rubble" ID="{1199EAD9-1598-49F9-9623-3D3E4F6B3EEC}"/>
+						<Switch Name="Crate" ID="{F4439AA3-E7F3-489A-AF39-BDAECBE5888A}"/>
+						<Switch Name="Crystal" ID="{9E4439CB-785C-4D57-9EB6-52ED85B3E826}"/>
+						<Switch Name="Metal" ID="{9AED7246-C50C-4A90-88C6-3022AAADF3ED}"/>
+						<Switch Name="Sand" ID="{1FD74965-DF8E-4279-B3D8-470A3BEF962B}"/>
+						<Switch Name="Enemy_EvilHead" ID="{DFA7BC77-B990-4D7B-96B6-0F97BD821252}"/>
+						<Switch Name="Water" ID="{53E2D241-0568-4D36-93BE-84E347E42696}"/>
+						<Switch Name="Enemy_EvilCrawler" ID="{0FDA6780-E574-4085-BBCC-965376A61827}"/>
+						<Switch Name="Wood" ID="{9FE79910-D1C4-4C2E-A050-CAEB05725E12}"/>
+						<Switch Name="Stone" ID="{5E0AFC46-E244-4B05-8175-AC279B3093A2}"/>
+						<Switch Name="Barrel" ID="{6E7E7098-7AF7-4F0B-8F1D-541BC074AFCE}"/>
+						<Switch Name="Enemy_EvilSpitPlant" ID="{3995A613-0EFE-4957-BB0D-3D5AEFE47E8B}"/>
+						<Switch Name="Dirt" ID="{B85F83BF-64CD-434C-AB88-BB7D0EF3C7A5}"/>
+						<Switch Name="Agent" ID="{18DBB977-550D-422C-A07D-73F3F4A1A61C}"/>
+						<Switch Name="Grass" ID="{CB46D12B-4674-4195-AABF-A4F72BF319F5}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="Combo" ID="{9AB9F143-F632-45BA-944C-5418BAD77E06}">
+					<ChildrenList>
+						<Switch Name="LeftSwing" ID="{DCE96E37-0267-4A12-9802-496BAC715FA1}"/>
+						<Switch Name="RightSwing" ID="{A6C7E653-A06C-4D5F-9AE7-7162214D97BE}"/>
+						<Switch Name="TopSwing" ID="{79DE4441-843B-4E34-A03F-6B9D6249E049}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</Switches>
+</WwiseDocument>
