@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{9B37245C-DE2D-4474-A257-E3A905298EBA}" SchemaVersion="97">
 	<Triggers>
-		<WorkUnit Name="Default Work Unit" ID="{9B37245C-DE2D-4474-A257-E3A905298EBA}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{9B37245C-DE2D-4474-A257-E3A905298EBA}" PersistMode="Standalone">
+			<ChildrenList>
+				<Trigger Name="WAG_QuickStinger_GetItem" ID="{82E6F4A6-AEFC-4398-B904-406D5CA83064}"/>
+			</ChildrenList>
+		</WorkUnit>
 	</Triggers>
 </WwiseDocument>

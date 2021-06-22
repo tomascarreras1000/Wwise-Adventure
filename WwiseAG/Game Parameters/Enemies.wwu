@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{E9961CDE-0D9C-4404-9EE4-7DF19629C64B}" SchemaVersion="97">
+	<GameParameters>
+		<WorkUnit Name="Enemies" ID="{E9961CDE-0D9C-4404-9EE4-7DF19629C64B}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="Enemy_Music_EvilHead" ID="{1FBE40A8-927E-4847-A87D-36EE69BE77DA}">
+					<PropertyList>
+						<Property Name="BindToBuiltInParam" Type="int16" Value="1"/>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="Enemy_Music_EvilCrawler" ID="{E0577D49-216E-453D-80DE-BF4C247236E7}">
+					<PropertyList>
+						<Property Name="BindToBuiltInParam" Type="int16" Value="1"/>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="Enemy_Music_EvilSpitPlant" ID="{C917F61C-405E-4D95-B158-1F3C0C9C6C51}">
+					<PropertyList>
+						<Property Name="BindToBuiltInParam" Type="int16" Value="1"/>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+					</PropertyList>
+				</GameParameter>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

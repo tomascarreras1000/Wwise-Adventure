@@ -39,6 +39,45 @@
 						<Switch Name="TopSwing" ID="{79DE4441-843B-4E34-A03F-6B9D6249E049}"/>
 					</ChildrenList>
 				</SwitchGroup>
+				<SwitchGroup Name="DayOrNight" ID="{CC8EA9CA-0CF8-4C44-8099-FFCEC1548730}">
+					<PropertyList>
+						<Property Name="UseGameParameter" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Switch Name="Day" ID="{5E46C2DE-B193-4C2C-8ED7-A1DABEF691C5}"/>
+						<Switch Name="Night" ID="{C8EB7FB3-228E-4D22-B571-D7E96D86BE52}"/>
+					</ChildrenList>
+					<SwitchOnRTPC>
+						<GameParameterRef Name="SS_Air_TimeOfDay" ID="{536FA72C-8C7E-4C8B-AE03-EF34FDADC314}"/>
+						<Curve Name="" ID="{AF69D505-5D5A-453B-8147-4D61E23A1E7F}">
+							<PropertyList>
+								<Property Name="Flags" Type="int32" Value="65537"/>
+							</PropertyList>
+							<PointList>
+								<Point>
+									<XPos>0</XPos>
+									<YPos>2</YPos>
+									<Flags>5</Flags>
+								</Point>
+								<Point>
+									<XPos>6</XPos>
+									<YPos>1</YPos>
+									<Flags>0</Flags>
+								</Point>
+								<Point>
+									<XPos>21</XPos>
+									<YPos>2</YPos>
+									<Flags>0</Flags>
+								</Point>
+								<Point>
+									<XPos>24</XPos>
+									<YPos>2</YPos>
+									<Flags>37</Flags>
+								</Point>
+							</PointList>
+						</Curve>
+					</SwitchOnRTPC>
+				</SwitchGroup>
 			</ChildrenList>
 		</WorkUnit>
 	</Switches>

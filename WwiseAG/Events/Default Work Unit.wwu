@@ -109,6 +109,47 @@
 						</Event>
 					</ChildrenList>
 				</Folder>
+				<Folder Name="Music" ID="{116EDF11-9E58-469D-AB71-292E6A24AF03}" ShortID="922450532">
+					<ChildrenList>
+						<Event Name="Music_Enemies" ID="{D6683E89-83A9-4DD7-B0D3-FB9E0A1421C2}">
+							<ChildrenList>
+								<Action Name="" ID="{F1A3618B-3CC4-4F95-97F5-DBFCB9ADD5E1}" ShortID="723325331">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Music_Enemies" ID="{265CA794-3D18-471C-A2C7-A6EC58F649E7}" WorkUnitID="{4D1431D7-1CCE-4AD7-975E-5115BBD0F5C6}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Music_Regions" ID="{EB044517-ACCB-4E26-93CD-96160AEF6CAF}">
+							<ChildrenList>
+								<Action Name="" ID="{C23E65DF-B5A4-4538-955C-04CDFB6EB8CF}" ShortID="706497613">
+									<PropertyList>
+										<Property Name="FadeInCurve" Type="int16" Value="6"/>
+										<Property Name="FadeTime" Type="Real64" Value="0.5"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Woodlands_DayOrNight" ID="{5148BE8A-E64C-44C9-84F7-638703D647AF}" WorkUnitID="{4D1431D7-1CCE-4AD7-975E-5115BBD0F5C6}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Stinger_GetWeapon" ID="{7416BECB-98E1-4E86-A5D5-2458559E5EE3}">
+							<ChildrenList>
+								<Action Name="" ID="{E1884794-D3D4-405A-A69E-5E98150E9C3F}" ShortID="160887698">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Woodlands_DayOrNight" ID="{5148BE8A-E64C-44C9-84F7-638703D647AF}" WorkUnitID="{4D1431D7-1CCE-4AD7-975E-5115BBD0F5C6}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
